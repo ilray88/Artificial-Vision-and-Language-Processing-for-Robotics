@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6feb9ebb-8193-4bec-a737-9c8658de764e" name="Changes" comment="update" />
+    <list default="true" id="6feb9ebb-8193-4bec-a737-9c8658de764e" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/Lesson04/Activity04/Activity04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Activity04/Activity04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise14/Exercise14.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise14/Exercise14.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise15/Exercise15.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise15/Exercise15.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise16/Exercise16.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise16/Exercise16.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +63,7 @@
       <updated>1635341562778</updated>
       <workItem from="1635341564056" duration="319000" />
       <workItem from="1635341954777" duration="237000" />
+      <workItem from="1635342193031" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1635341728854</created>
@@ -66,7 +72,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635341728854</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1635342429945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635342429945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1635342444034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635342444034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
