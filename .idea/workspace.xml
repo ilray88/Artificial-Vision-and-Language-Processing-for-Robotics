@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6feb9ebb-8193-4bec-a737-9c8658de764e" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/Lesson04/Activity04/Activity04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Activity04/Activity04.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise14/Exercise14.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise14/Exercise14.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise15/Exercise15.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise15/Exercise15.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson04/Exercise16/Exercise16.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson04NLP神经网络/Exercise16/Exercise16.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="d9dd3741-2f01-4046-94b3-c69a3c08760b" name="Changes" comment="汉化标题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +23,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0ilraypan\git_jia\Artificial-Vision-and-Language-Processing-for-Robotics\Lesson01第1章机器人学基础" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -86,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635342444034</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="汉化标题">
+      <created>1635344004685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635344004685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="汉化标题">
+      <created>1635344059784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635344059784</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="汉化标题" />
+    <option name="LAST_COMMIT_MESSAGE" value="汉化标题" />
   </component>
 </project>
