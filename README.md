@@ -1,4 +1,3 @@
-![img.png](img.png)
 [![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/issues)
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/stargazers)
