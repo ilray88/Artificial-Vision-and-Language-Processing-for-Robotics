@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9dd3741-2f01-4046-94b3-c69a3c08760b" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习07加载图像并应用所学的各种方法.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习8.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习9.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +66,11 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0ilraypan\git_jia\Artificial-Vision-and-Language-Processing-for-Robotics\章节02计算机视觉\练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络" />
       <recent name="D:\0ilraypan\git_jia\Artificial-Vision-and-Language-Processing-for-Robotics\Lesson01第1章机器人学基础" />
     </key>
   </component>
@@ -112,6 +115,7 @@
       <workItem from="1635387586867" duration="26000" />
       <workItem from="1635390039610" duration="562000" />
       <workItem from="1635390915832" duration="26000" />
+      <workItem from="1635390943449" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1635341728854</created>
@@ -162,7 +166,28 @@
       <option name="project" value="LOCAL" />
       <updated>1635345231285</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1635390964741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635390964741</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1635391036318</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635391036318</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1635392204170</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635392204170</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
