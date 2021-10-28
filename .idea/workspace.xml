@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9dd3741-2f01-4046-94b3-c69a3c08760b" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/git_jia.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/章节02计算机视觉/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络/练习07加载图像并应用所学的各种方法8使用决策树随机森林和ADABOOST进行数字预测9构建第一个神经网络.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data-Science-with-Python" beforeDir="false" afterPath="$PROJECT_DIR$/../Data-Science-with-Python" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tensorflow 2.0实战" beforeDir="false" afterPath="$PROJECT_DIR$/../Tensorflow 2.0实战" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jd_maotai/jdBuyMask.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +73,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -114,7 +125,9 @@
       <workItem from="1635387586867" duration="26000" />
       <workItem from="1635390039610" duration="562000" />
       <workItem from="1635390915832" duration="26000" />
-      <workItem from="1635390943449" duration="2454000" />
+      <workItem from="1635390943449" duration="3688000" />
+      <workItem from="1635395127061" duration="785000" />
+      <workItem from="1635395926071" duration="437000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1635341728854</created>
@@ -193,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635392854647</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1635393438334</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635393438334</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
