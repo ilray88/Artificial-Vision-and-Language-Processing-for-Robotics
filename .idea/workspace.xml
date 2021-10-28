@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d9dd3741-2f01-4046-94b3-c69a3c08760b" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tensorflow 2.0实战" beforeDir="false" afterPath="$PROJECT_DIR$/../Tensorflow 2.0实战" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -118,7 +117,8 @@
       <workItem from="1635390943449" duration="3688000" />
       <workItem from="1635395127061" duration="785000" />
       <workItem from="1635395926071" duration="848000" />
-      <workItem from="1635396786412" duration="11000" />
+      <workItem from="1635396786412" duration="290000" />
+      <workItem from="1635397095936" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1635341728854</created>
@@ -228,7 +228,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="dev" />
                       </list>
                     </value>
                   </entry>
