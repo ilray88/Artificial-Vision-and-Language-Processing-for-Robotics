@@ -3,7 +3,10 @@
 [![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/network)
 [![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Applied-Deep-Learning-with-Keras.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Artificial-Vision-and-Language-Processing-for-Robotics/pulls)
-
+git config --global http.proxy socks5://127.0.0.1:50014
+git config --global https.proxy socks5://127.0.0.1:50014
+git config --global http.proxy http://192.168.5.1:7890
+git config --global https.proxy http://192.168.5.1:7890
 # Artificial Vision and Language Processing for Robotics
 Artificial Vision and Language Processing for Robotics begins by discussing the theory behind robots. You will learn the basics of robots and important issues while working with them. Then, you’ll compare different methods used to work with robots and explore computer vision, its algorithms, and limits.
 As you progress through the course, you will learn how to control the robot with natural language processing (NLP) commands. You’ll also study Word2Vec and GloVe embedding techniques, non-numeric data, recurrent neural network (RNNs), and their advanced models. You will create a simple Word2Vec model with Keras, as well as build a convolutional neural network (CNN) and improve it with data augmentation and transfer learning. You will study the ROS and build a conversational agent to manage your robot. In the concluding chapters, you will define intents and phrases for the agent and use GloVe to identify user intent. Then, you will integrate your agent with the ROS and convert an image to text and text to speech. You will also learn to build an object recognition system using your webcam; this system will enable your robot to fully understand its surroundings and make proper decisions.
